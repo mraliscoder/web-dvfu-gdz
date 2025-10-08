@@ -1,11 +1,18 @@
-site_name: Web Fefu Shit
+site_name: Web Fefu GDZ
+repo_url: https://github.com/mraliscoder/web-dvfu-gdz
+repo_name: mraliscoder/web-dvfu-gdz
 theme:
     name: material
     language: ru
     logo: img/128x128.png
     favicon: img/128x128.png
+    custom_dir: overrides
     features:
     - navigation.sections
+    - content.action.edit
+    - announce.dismiss
+    icon:
+      repo: fontawesome/brands/github
     palette:
     - media: "(prefers-color-scheme)"
       toggle:
