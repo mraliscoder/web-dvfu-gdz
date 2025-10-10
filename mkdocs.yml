@@ -10,6 +10,7 @@ theme:
     features:
     - navigation.sections
     - content.action.edit
+    - content.code.copy
     - announce.dismiss
     icon:
       repo: fontawesome/brands/github
